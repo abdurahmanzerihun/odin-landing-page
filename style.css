@@ -1,0 +1,13 @@
+.header1{
+        display: flex;
+}
+.header2{
+        display: flex;
+}
+ul{
+        display: flex;
+        list-style: none;
+}
+.parent-container{
+        display: flex;
+}
