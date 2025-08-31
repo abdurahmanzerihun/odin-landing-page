@@ -1,2 +1,2 @@
-# odin-webpage
-Working on my second project(Landing-Page)on The Odin Project(TOP) .
+# odin-landing-page
+Working on my second project on The Odin Project(TOP) .
