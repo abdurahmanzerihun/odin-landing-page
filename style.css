@@ -1,13 +1,137 @@
-.header1{
+body{
+        font-family: "Roboto",sans-serif;
+      margin: auto;
+}
+.hero{
         display: flex;
+        background-color:#1F2937 ;
+        padding: 25px;
+        justify-content: center;
+        gap: 80px;
+}
+.awesome{
+     font-size: 48px;
+        color:#F9FAF8 ;
+        font-weight:900 ;
+}
+.text{
+        font-size: 18px;
+     color: #E5E7EB; 
+     
+}
+li{
+        margin-right: 15px;
+}
+a{
+     font-size: 18px;
+     color: #E5E7EB; 
+     text-decoration: none;  
+}
+.logo{
+     font-size:24px ;
+     color:#F9FAF8 ;   
+}
+
+.header1{
+        
+        
 }
 .header2{
         display: flex;
+        flex-direction: column;
+        
 }
-ul{
+.link{
         display: flex;
         list-style: none;
+        
+}
+.img{
+width: 80px;
+height: 80px;
+object-fit: cover;
+}
+.random-title{
+    font-size: 36px;
+    color :#1F2937; 
+    font-weight: 900;  
+}
+.section2{
+        display: flex;
+flex-direction: column;
+        align-items: center;
+}
+.container{
+        display: block;
 }
 .parent-container{
         display: flex;
+}
+.section3{
+        background-color: #E5E7EB;
+        display: flex;
+       padding: 20px;
+}
+.quote {
+      
+        
+        font-size: 36px;
+        color: #1F2937;
+        font-style: italic;
+}
+.section4{
+        padding:60px;
+        display: flex;
+        justify-content: center;
+}
+.calltoaction{
+        width: 900px;
+        height: auto;
+        display: flex;
+        background-color: #3882F6;  
+       justify-content: center;
+       border-radius: 5px;
+       gap: 150px;
+       padding: 30px;
+}
+footer{
+        display: flex;
+       background-color:#1F2937 ; 
+       color: #E5E7EB; 
+       font-size: 18px;
+       padding:25px;
+       justify-content: center;
+       align-items: center;
+       bottom: 0;
+       left: 0;
+       right: 0;
+       
+}
+.action-text{
+        display: block; 
+        color: #E5E7EB; 
+       font-size: 18px;
+    margin: 0;
+         
+}
+ .action-call{
+         color: #E5E7EB; 
+         font-weight: 900;
+         margin: 0;
+ }     
+.button{
+     background-color: #3882F6;     
+margin-left: auto;
+border-radius: 8px;
+border: 2px solid #E5E7EB;
+ color: #E5E7EB; 
+ font-weight: 900;
+ font-size: 18px;
+padding: 5px 18px 5px 18px;
+
+
+}
+.button-cont{
+        display: flex;
+        align-items: center;
 }
