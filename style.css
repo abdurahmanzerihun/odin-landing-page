@@ -71,13 +71,30 @@ flex-direction: column;
         background-color: #E5E7EB;
         display: flex;
        padding: 20px;
-}
-.quote {
-      
+       justify-content: center;
+       align-items: center;
+       height: 300px;
+         flex-direction: column;
         
+      
+}
+.quote {   
+
         font-size: 36px;
         color: #1F2937;
         font-style: italic;
+        display: flex;
+        justify-content: center;
+       align-items: center;
+       box-sizing: border-box;
+         width:60%;
+        height: 20%;
+        text-align: justify;
+         
+}
+.author-cont{
+      display: flex;
+      justify-content: space-around;
 }
 .section4{
         padding:60px;
