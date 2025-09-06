@@ -80,8 +80,8 @@ flex-direction: column;
 }
 .quote {   
 
-        font-size: 36px;
-        color: #1F2937;
+        font-size: 34px;
+        color: #414a56;
         font-style: italic;
         display: flex;
         justify-content: center;
@@ -92,9 +92,10 @@ flex-direction: column;
         text-align: justify;
          
 }
-.author-cont{
-      display: flex;
-      justify-content: space-around;
+figcaption{
+        margin-left: 400px;
+        font-weight: bold;
+        font-size: 26px;
 }
 .section4{
         padding:60px;
