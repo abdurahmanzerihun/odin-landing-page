@@ -1,2 +1,2 @@
 # odin-landing-page
-A page to explore my HTML and CSS skill
+##A project at The Odin Project(TOP)
