@@ -1,2 +1,2 @@
 # odin-landing-page
-##A project at The Odin Project(TOP)
+## A project at The Odin Project(TOP)
